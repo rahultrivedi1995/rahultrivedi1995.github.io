@@ -3,14 +3,14 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<img style="float: right;"  src="./images/Amir.jpg" width="140"/>
-Assistant Professor  
-William E. Boeing Department of Aeronautics and Astronautics               
+<img style="float: right;"  src="./images/Rahul.jpg" width="140"/>
+Assistant Professor, Department of Electrical and Computer Engineering,
+Adjunct Assistant Professor, Department of Physics,              
 University of Washington, Seattle         
-Guggenheim Hall (GUG) 318B        
+ECE M358       
 Seattle, WA  98195-2400        
-<amirtag@uw.edu>  
-[Google Scholar](https://scholar.google.com/citations?user=l96zhjwAAAAJ&hl=en)  
+<rtriv@uw.edu>  
+[Google Scholar](https://scholar.google.com/citations?user=xWQJLmIAAAAJ&hl=en)  
 [Curriculum Vitae](./files/resume.pdf)
 <br />
 
@@ -23,16 +23,16 @@ Seattle, WA  98195-2400
 
 ---
 ### Teaching
-- Nonliner control systems (AA/ME/EE 583)
-- Estimation And System Identification (AA/ME/EE 549)
-- Feedback Control Systems in Aerospace (AA 447) 
+- Quantum and classical stochastic calculus (EE 539)
+- Quantum Optics for quantum information applications (EE 528)
+- Probability and Stochastic Processes (EE505)
 
 ---
 ### Professional Experience/Education
-- Postdoctoral Scholar ([with Tryphon Georgiou](http://georgiou.eng.uci.edu/index.html)), University of California, Irvine, 2019-2021       
-- Ph.D. in Mechanical Engineering, [University of Illinois at Urbana-Champaign](https://illinois.edu/), 2019    
-Advisor: [Prashant G. Mehta](http://mehta.mechse.illinois.edu/)
-- M.S. in Mathematics, [University of Illinois at Urbana-Champaign](https://illinois.edu/), 2017
-- B.S. in  Mechanical Engineering and Physics (dual major), [Sharif University of Technology](http://www.sharif.ir/web/en/), Iran, 2013  
+- Postdoctoral Scholar ([with J. Ignacio Cirac](http://georgiou.eng.uci.edu/index.html)), Max Planck Harvard research center for quantum optics.       
+- Ph.D. in Electrical Engineering, [Stanford University], January 2021   
+Advisors: [Jelena Vuckovic, Shanhui Fan]
+- M.S. in Electrical Engineering, [Stanford University], January 2021
+- B.Tech. in Electrical Engineering, Indian Institute of Technology, Delhi, July 2016.
 
 ---

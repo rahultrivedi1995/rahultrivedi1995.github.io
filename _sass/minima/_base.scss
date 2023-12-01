@@ -103,15 +103,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #00FFFF;
+  color: #00008b;
   text-decoration: none;
 
   &:visited {
-    color: darken(#00FFFF, 80%);
+    color: darken(#00008b, 80%);
   }
 
   &:hover {
-    color: darken(#00FFFF, 70%);
+    color: darken(#00008b, 70%);
     text-decoration: underline;
   }
 

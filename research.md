@@ -5,17 +5,14 @@ permalink: /research/
 ---
 
 ### Optimal Transportation methods in nonlinear filtering:       {#FPF}
-<p align="center">
-<img src="../images/FPF-artwork-with-Poisson.png" width="440"/>
-</p>
 
-Uncertainty is, more than ever, an integral part of modern control system applications. We use models that are learned from data, fuse variety of noisy sensors, and augment machine learning modules that are inherently stochastic. Nonlinear filtering is a principled approach to quantify uncertainty and as- similate noisy sensory data in a probabilistic framework. However, existing nonlinear filtering algorithms face critical limitations due to (i) highly nonlinear and complex models (ii) curse of dimensionality; (ii) and incorrect specification of models and noise statistics. This research project is aimed at overcoming these limitations.
+Complex (many-body) quantum system is an umbrella term for models of physical systems that comprise of a large number interacting smaller subsystems, each of which is described by a quantum theory. While the individual subsystems might be easy to analyze, their collective behavior is challenging to capture. My interest here lies in developing classical and quantum algorithms, with rigorous guarantees, for simulating dynamics and equilibrium properties of many-body quantum systems. In particular, I am interested in focussing on many-body open quantum systems, which remain unexplored compared to their closed counterparts. I am also interested in exploring algorithms for dynamics and equilibrium properties of disordered quantum systems (quantum spin-glasses).
 
-- [Optimal Transportation Methods in Nonlinear Filtering: The feedback particle filter](https://ieeexplore.ieee.org/document/9491060)([arXiv](https://arxiv.org/abs/2102.10712))     
+- [Description and Complexity of non-Markovian open quantum dynamics.](https://arxiv.org/abs/2204.06936)     
 
-- [An Optimal Transport Formulation of Bayes' Law for Nonlinear Filtering Algorithms](https://arxiv.org/abs/2203.11869)
-
-- [An optimal transport formulation of the ensemble Kalman filter](https://doi.org/10.1109/TAC.2020.3015410) ([arXiv](https://arxiv.org/abs/1910.02338))        
+- [Transitions in Computational Complexity of Continuous-Time Local Open Quantum Dynamics](https://arxiv.org/abs/2110.10638v2)
+  
+- [Convergence Guarantees for Discrete Mode Approximations to Non-Markovian Quantum Baths](https://arxiv.org/abs/2107.07196)    
 
 
 
@@ -67,30 +64,17 @@ To this end, the framework of stochastic thermodynamics was developed in recent 
 - [Maximal power output of a stochastic thermodynamic engine](https://doi.org/10.1016/j.automatica.2020.109366) ([arXiv ](https://arxiv.org/abs/2001.00979))  
 
 <!--
----
+
 layout: page
 title: Mentorship
 permalink: /mentorship/
----
+
 ### Ph.D. students (current)
 
 - Mohammad Al-Jarrah, University of Washington, Seattle
 - Olga Movilla, University of California, Irvine
 - Anqi Dong, University of California, Irvine
 
-### Master's students (current)
--  Hasan Horata, University of Washington, Seattle     
--  Siri Gadipudi, University of Washington, Seattle.   
-
-
---------
-
-### Master's students (former)
-- Tixian Wang, University of Illinois at Urbana-Champaign
-
-- Yagiz Olmez, University of Illinois at Urbana-Champaign  
-
---------
 ### Undergraduates (former)
 - Ayano Hiraka, Kumar Gandhi, Peter Ivanov, Ulzee An, University of Illinois at Urbana-Champaign  
 

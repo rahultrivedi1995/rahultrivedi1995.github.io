@@ -9,7 +9,7 @@ Adjunct Assistant Professor, Physics,<br />
 University of Washington, Seattle.<br />
 Seattle, WA  98195-2400.<br />
 Office: ECE M358, Contact: <rtriv@uw.edu>.<br />
-[Google Scholar](https://scholar.google.com/citations?user=xWQJLmIAAAAJ&hl=en),  [Curriculum Vitae](./files/resume.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=xWQJLmIAAAAJ&hl=en),  [Curriculum Vitae](./files/rtrivedi_cv.pdf)
 <br />
 
 
@@ -26,10 +26,7 @@ Office: ECE M358, Contact: <rtriv@uw.edu>.<br />
 
 
 ### Professional Experience/Education
-- Postdoctoral Scholar (with J. Ignacio Cirac), Max Planck Harvard research center for quantum optics.       
-- Ph.D. in Electrical Engineering, Stanford University, January 2021   
-Advisors: Jelena Vuckovic, Shanhui Fan
-- M.S. in Electrical Engineering, Stanford University, January 2021
+- Postdoctoral Scholar, Max Planck Harvard research center for quantum optics.       
+- Ph.D. in Electrical Engineering, Stanford University, January 2021.
+- M.S. in Electrical Engineering, Stanford University, January 2021.
 - B.Tech. in Electrical Engineering, Indian Institute of Technology, Delhi, July 2016.
-
----

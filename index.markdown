@@ -9,7 +9,7 @@ Adjunct Assistant Professor, Physics,<br />
 University of Washington, Seattle.<br />
 Seattle, WA  98195-2400.<br />
 Office: ECE M358, Contact: <rtriv@uw.edu>.<br />
-[Google Scholar](https://scholar.google.com/citations?user=xWQJLmIAAAAJ&hl=en),  [Curriculum Vitae](./files/rtrivedi_cv.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=xWQJLmIAAAAJ&hl=en), [Curriculum Vitae](./files/rtrivedi_cv.pdf)
 <br />
 
 

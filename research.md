@@ -32,11 +32,3 @@ Theoretical quantum optics has traditionally studied either single systems (such
 
 Current quantum hardware is constrained in terms of the number of qubits. It is therefore not possible to implement fault-tolerant quantum computation and error correction. This opens up the question of what are the limits of unencoded quantum computations, and analogue quantum simulations. Here, my interests lie in providing certifiable bounds, either analytical or classically computable, on the performance of noisy quantum circuits. I am also interested in rigorously identifying the class of problems that can be solved with uneconded noisy quantum computers, and have potential quantum advantage. 
 
-
-### Students
-
-- Erfan Abbasgholinejad, Phd, University of Washington, Seattle
-- Jordi Lopez, Phd, University of Washington, Seattle
-- Abhi Saxena (co-advised with Arka Majumdar), Phd, University of Washington, Seattle.
-- Vikram Kashyap (co-advised with Sara Mouradian), Pre-graduated, University of Washington, Seattle.
-

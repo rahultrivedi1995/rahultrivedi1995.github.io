@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<img style="float: right;"  src="./files/rahul.jpeg" width="140"/>
+<img style="float: right;"  src="./files/rahul.jpeg" width="300"/>
 Assistant Professor, Department of Electrical and Computer Engineering,
 
 Adjunct Assistant Professor, Department of Physics,              

@@ -8,14 +8,12 @@ permalink: /research/
 
 Complex (many-body) quantum system is an umbrella term for models of physical systems that comprise of a large number interacting smaller subsystems, each of which is described by a quantum theory. While the individual subsystems might be easy to analyze, their collective behavior is challenging to capture. My interest here lies in developing classical and quantum algorithms, with rigorous guarantees, for simulating dynamics and equilibrium properties of many-body quantum systems. In particular, I am interested in focussing on many-body open quantum systems, which remain unexplored compared to their closed counterparts. I am also interested in exploring algorithms for dynamics and equilibrium properties of disordered quantum systems (quantum spin-glasses).
 
-- [Description and Complexity of non-Markovian open quantum dynamics.](https://arxiv.org/abs/2204.06936)     
+<em>Selected Publications</em>
+<a href=https://arxiv.org/abs/2204.06936>Description and Complexity of non-Markovian open quantum dynamics, arXiv2204.06936.</a>   
 
-- [Transitions in Computational Complexity of Continuous-Time Local Open Quantum Dynamics](https://arxiv.org/abs/2110.10638v2)
+[Transitions in Computational Complexity of Continuous-Time Local Open Quantum Dynamics, PRL 2022](https://arxiv.org/abs/2110.10638v2)
   
-- [Convergence Guarantees for Discrete Mode Approximations to Non-Markovian Quantum Baths](https://arxiv.org/abs/2107.07196)    
-
-
-
+[Convergence Guarantees for Discrete Mode Approximations to Non-Markovian Quantum Baths, PRL 2021](https://arxiv.org/abs/2107.07196)    
 
 
 ----------

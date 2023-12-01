@@ -3,14 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-<img style="float: right;"  src="./files/rahul.jpeg" width="300"/>
-Assistant Professor, Department of Electrical and Computer Engineering,  
+<img style="float: right;"  src="./files/rahul.jpeg" width="200"/>
+Assistant Professor, Department of Electrical and Computer Engineering,<br />
 Adjunct Assistant Professor, Department of Physics,  
 University of Washington, Seattle.  
-ECE M358  
 Seattle, WA  98195-2400  
-<rtriv@uw.edu>  
-[Google Scholar](https://scholar.google.com/citations?user=xWQJLmIAAAAJ&hl=en)   [Curriculum Vitae](./files/resume.pdf)
+Office: ECE M358, Contact: <rtriv@uw.edu>  
+[Google Scholar](https://scholar.google.com/citations?user=xWQJLmIAAAAJ&hl=en),  [Curriculum Vitae](./files/resume.pdf)
 <br />
 
 ---

@@ -19,12 +19,6 @@ Office: ECE M358, Contact: <rtriv@uw.edu>.<br />
 - [Noisy and uneconded quantum computations](./research/#Thermo)
 
 
-### Teaching
-- Quantum and classical stochastic calculus (EE 539)
-- Quantum Optics for quantum information applications (EE 528)
-- Probability and Stochastic Processes (EE505)
-
-
 ### Professional Experience/Education
 - Postdoctoral Scholar, Max Planck Harvard research center for quantum optics.       
 - Ph.D. in Electrical Engineering, Stanford University, January 2021.

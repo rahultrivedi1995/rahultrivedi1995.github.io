@@ -16,10 +16,9 @@ Seattle, WA  98195-2400
 
 ---
 ### Research topics 
-- [Nonlinear filtering and optimal control](./research/#FPF)
-- Machine learning ([computational optimal transport](./research/#OT), [sampling](./research/#SM))
-- [Stochastic thermodynamics](./research/#Thermo)
-<!--My research interest lies at the intersection of control theory and machine learning. In particular, I have been working on problems that can be modelled as a control or optimization problem on the space of probability distributions, such as [Optimal filtering and control](./research/#FPF), [sampling](./research/#SM), [optimal mass transportation](./research/#OT), and [stochastic thermodynamics](./research/#Thermo). The motivation is to design meaningful approximations that can be computed through efficient and scalable numerical algorithms. -->
+- [Algorithms for many-body quantum physics](./research/#FPF)
+- [Quantum optics and quantum light sources](./research/#OT), [sampling](./research/#SM))
+- [Noisy and uneconded quantum computations](./research/#Thermo)
 
 ---
 ### Teaching
@@ -29,10 +28,10 @@ Seattle, WA  98195-2400
 
 ---
 ### Professional Experience/Education
-- Postdoctoral Scholar ([with J. Ignacio Cirac](http://georgiou.eng.uci.edu/index.html)), Max Planck Harvard research center for quantum optics.       
-- Ph.D. in Electrical Engineering, [Stanford University], January 2021   
-Advisors: [Jelena Vuckovic, Shanhui Fan]
-- M.S. in Electrical Engineering, [Stanford University], January 2021
+- Postdoctoral Scholar (with J. Ignacio Cirac), Max Planck Harvard research center for quantum optics.       
+- Ph.D. in Electrical Engineering, Stanford University, January 2021   
+Advisors: Jelena Vuckovic, Shanhui Fan
+- M.S. in Electrical Engineering, Stanford University, January 2021
 - B.Tech. in Electrical Engineering, Indian Institute of Technology, Delhi, July 2016.
 
 ---

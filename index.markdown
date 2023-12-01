@@ -4,8 +4,8 @@
 layout: home
 ---
 <img style="float: right;"  src="./files/rahul.jpeg" width="200"/>
-Assistant Professor, Department of Electrical and Computer Engineering,<br />
-Adjunct Assistant Professor, Department of Physics,<br />
+Assistant Professor, Electrical and Computer Engineering,<br />
+Adjunct Assistant Professor, Physics,<br />
 University of Washington, Seattle.<br />
 Seattle, WA  98195-2400.<br />
 Office: ECE M358, Contact: <rtriv@uw.edu>.<br />

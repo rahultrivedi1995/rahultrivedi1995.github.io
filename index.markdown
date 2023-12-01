@@ -15,7 +15,7 @@ Office: ECE M358, Contact: <rtriv@uw.edu>.<br />
 
 ### Research topics 
 - [Algorithms for many-body quantum physics](./research/#FPF)
-- [Quantum optics and quantum light sources](./research/#OT), [sampling](./research/#SM))
+- [Quantum optics and quantum light sources](./research/#OT),
 - [Noisy and uneconded quantum computations](./research/#Thermo)
 
 

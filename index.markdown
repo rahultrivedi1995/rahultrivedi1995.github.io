@@ -5,6 +5,7 @@ layout: home
 ---
 <img style="float: right;"  src="./files/rahul.jpeg" width="140"/>
 Assistant Professor, Department of Electrical and Computer Engineering,
+
 Adjunct Assistant Professor, Department of Physics,              
 University of Washington, Seattle         
 ECE M358       

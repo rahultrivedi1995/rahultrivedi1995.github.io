@@ -107,11 +107,19 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: darken(#00008b, 80%);
+    color: #00008b, 80%;
+  }
+
+  &:link {
+    color:#00008b, 80%);
+  }
+
+  &:active {
+    color: #00008b;
   }
 
   &:hover {
-    color: darken(#00008b, 70%);
+    color: #00008b, 70%;
     text-decoration: underline;
   }
 

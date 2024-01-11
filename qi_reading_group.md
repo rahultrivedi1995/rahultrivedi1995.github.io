@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantum Information Reading Group
+title: QI Reading Group
 permalink: /qi_reading_group/
 ---
 
@@ -16,5 +16,5 @@ In Winter 2023, this reading group will take place in ECE M406 from 15:30 - 17:0
 4. The set of papers is upto the presenter as long as it is within the scope of the reading group.
 
 ### Agenda and Reading list
-Jan 17, 2023: Introduction and logistics. Presenter: Rahul, Adiabatic quantum computation.
+Jan 17, 2023: Introduction and logistics. Presenter: Rahul, Adiabatic quantum computation.<br />
 Jan 24, 2023: ....

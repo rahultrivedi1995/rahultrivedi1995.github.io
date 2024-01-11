@@ -2,6 +2,8 @@
 layout: page
 title: Research
 permalink: /research/
+nav_include: true
+nav_order: 1
 ---
 
 ### Algorithms for many-body quantum physics:       {#MBQP}

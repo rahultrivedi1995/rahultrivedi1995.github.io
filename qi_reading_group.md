@@ -2,6 +2,8 @@
 layout: page
 title: QI Reading Group
 permalink: /qi_reading_group/
+nav_include: true
+nav_order: 3
 ---
 
 The quantum information reading group is intended to be an informal meeting of researchers at all levels in UW to come together to study theoretical research papers in quantum information sciences, interpreted broadly. The papers will typically be on quantum information (QI) theory, QI perspective on many-body physics, quantum computing and occasionally quantum optics/implementations.

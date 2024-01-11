@@ -18,8 +18,9 @@ In Winter 2023, this reading group will take place in ECE M406 from 15:30 - 17:0
 4. The set of papers is upto the presenter as long as it is within the scope of the reading group.
 
 ### Agenda and Reading list
-Jan 17, 2023: Introduction and logistics,
-              Topic: Adiabatic quantum computation,<br />
-              Presenter: Rahul, <br />
-              Papers: <br/>
+Jan 17, 2023: <br />
+Introduction and logistics, <br />
+Topic: Adiabatic quantum computation,Presenter: Rahul, <br />
+Papers: [arxiv:quant-ph-0405098](https://arxiv.org/pdf/quant-ph/0405098.pdf), [arxiv:0705.4077](https://arxiv.org/pdf/0705.4077.pdf). <br />
+
 Jan 24, 2023: ....

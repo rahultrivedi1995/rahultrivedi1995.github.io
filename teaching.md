@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 nav_include: true
-nav_order: 3
+nav_order: 2
 ---
 
 

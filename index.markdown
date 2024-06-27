@@ -6,7 +6,7 @@ layout: home
 <img style="float: right;"  src="./files/rahul.jpeg" width="200"/>
 Research Group Leader,<br />
 Max Planck Institute of Quantum Optics, Garching.<br />
-Office: B2.45, Contact: <rahul.trivedi@mpq.mpg.de>.<br />
+Office: B2.45, Contact: rahul.trivedi@mpq.mpg.de<rahul.trivedi@mpq.mpg.de>.<br />
 [Google Scholar](https://scholar.google.com/citations?user=xWQJLmIAAAAJ&hl=en), [Curriculum Vitae](./files/rtrivedi_cv.pdf)
 <br />
 

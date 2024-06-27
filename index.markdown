@@ -18,7 +18,8 @@ Office: B2.45, Contact: rahul.trivedi@mpq.mpg.de<rahul.trivedi@mpq.mpg.de>.<br /
 
 
 ### Professional Experience/Education
-- Postdoctoral Scholar, Max Planck Harvard research center for quantum optics.       
-- Ph.D. in Electrical Engineering, Stanford University, January 2021.
-- M.S. in Electrical Engineering, Stanford University, January 2021.
+- Assistant Professor (Tenure Track), University of Washington Seattle, Sept 2022 - June 2024.
+- Postdoctoral Scholar, Max Planck Harvard research center for quantum optics, Jan 2021 - Aug 2022.      
+- Ph.D. in Electrical Engineering, Stanford University, Jan 2021.
+- M.S. in Electrical Engineering, Stanford University, Jan 2021.
 - B.Tech. in Electrical Engineering, Indian Institute of Technology, Delhi, July 2016.
